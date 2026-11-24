@@ -1,3 +1,6 @@
+# Data Types 
+
+
 # Strings are immutable 
 
 chai_type = "ginger chai"

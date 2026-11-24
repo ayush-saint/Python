@@ -1,3 +1,5 @@
+# Data Types 
+
 # Numbers Data types- float
 
 ideal_temp = 95.5
